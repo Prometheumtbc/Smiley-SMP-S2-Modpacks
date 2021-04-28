@@ -1,0 +1,13 @@
+{
+	"powers": [
+        "origins:vegetarian",
+		"potted:moo",
+        "potted:cow_hurt",
+		"potted:milk"
+	],
+	"icon": "minecraft:milk_bucket",
+	"order": 4,
+	"impact": 1,
+    "name": "Cow",
+    "description": "i r cow"
+}

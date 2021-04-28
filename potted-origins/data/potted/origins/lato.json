@@ -1,0 +1,18 @@
+{
+  "powers": [
+	"potted:lato_blooded",
+	"potted:arcane_skin",
+	"potted:seven_lives",
+	"origins:natural_armor",
+	"origins:tailwind",
+	"potted:rage",
+	"potted:rage_dummy",
+	"potted:perfect_vision",
+	"potted:water_vulnerability"
+  ],
+  "icon": "netherite_axe",
+  "order": 1,
+  "impact": 3,
+  "name": "Lato",
+  "description": "Skilled fighters who can attack with great strength and bear natural protective armor."
+}

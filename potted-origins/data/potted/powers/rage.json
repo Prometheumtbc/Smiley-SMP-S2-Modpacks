@@ -1,0 +1,27 @@
+{
+  "type": "origins:active_self",
+  "entity_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:strength",
+          "duration": 400,
+          "amplifier": 1
+        }
+      },
+      {
+        "type": "origins:exhaust",
+        "amount": 2
+      }
+    ]
+  },
+  "cooldown": 600,
+  "hud_render": {
+    "sprite_location": "latoorigins:textures/gui/ability_bars.png",
+    "bar_index": "0"
+  },
+  "name": "Feral Fury",
+  "description": "Drain your soul to unleash your full potential, resulting in a strength boost at the cost of health."
+}

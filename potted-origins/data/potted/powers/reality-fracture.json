@@ -1,0 +1,14 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:damage",
+        "amount": 2,
+        "source": {
+            "name": "outOfWorld",
+            "out_of_world": true
+        } 
+    },
+    "interval": 1200,
+    "name": "Reality Fracture",
+    "description": "Your temporal abilities cause your reality to slowly crumble over time."
+}

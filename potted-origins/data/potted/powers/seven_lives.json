@@ -1,0 +1,10 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.max_health",
+    "value": -6.0,
+    "operation": "addition"
+  },
+  "name": "Shattered Soul",
+  "description": "Your fragile soul cannot sustain much damage, thus have three less hearts than normal."
+}

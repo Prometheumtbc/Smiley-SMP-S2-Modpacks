@@ -1,0 +1,12 @@
+{
+	"powers": [
+        "potted:warp",
+        "potted:dimensional_traveler",
+        "potted:reality-fracture"
+	],
+	"icon": "minecraft:clock",
+	"order": 4,
+	"impact": 2,
+    "name": "Chrono",
+    "description": "A race of reality benders, able to manipulate time and space."
+}

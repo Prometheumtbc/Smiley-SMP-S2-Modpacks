@@ -1,0 +1,18 @@
+{
+	"powers": [
+        "origins:water_breathing",
+        "origins:swim_speed",
+        "origins:aqua_affinity",
+        "origins:aquatic",
+        "origins:conduit_power_on_land",
+        "origins:water_vision",
+        "potted:coldsleep",
+        "origins:vegetarian",
+        "origins:carnivore"
+	],
+	"icon": "minecraft:heart_of_the_sea",
+	"order": 4,
+	"impact": 3,
+    "name": "Siren",
+    "description": "A water breathing race who obtain their energy from sleeping, requiring no external sources of power."
+}

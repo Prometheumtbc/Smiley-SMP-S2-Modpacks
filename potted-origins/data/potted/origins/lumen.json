@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"potted:adaptive_effects",
+		"potted:inorganic",
+		"potted:perfect_vision",
+		"potted:reality_shatter"
+	],
+	"icon": "minecraft:nether_star",
+	"order": 4,
+	"impact": 3,
+    "name": "Lumen",
+    "description": "A species who both exist and do not. They are capable of adapting to many situations, but struggle to hold themselves present."
+}

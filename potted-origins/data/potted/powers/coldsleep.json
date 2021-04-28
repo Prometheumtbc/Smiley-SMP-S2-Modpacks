@@ -1,0 +1,63 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:and",
+        "actions": 
+        [
+            {
+               "type": "origins:apply_effect",
+              "effect": {
+                "effect": "minecraft:regeneration",
+                "amplifier": 1,
+                "duration": 100                    
+                }
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:saturation",
+                    "amplifier": 1,
+                    "duration": 100
+                }
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:weakness",
+                    "amplifier": 50,
+                    "duration": 400
+                }
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:slowness",
+                    "amplifier": 50,
+                    "duration": 400
+                }
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:blindness",
+                    "amplifier": 50,
+                    "duration": 400
+                }
+            },
+            {
+                "type": "origins:apply_effect",
+                "effect": {
+                    "effect": "minecraft:mining_fatigue",
+                    "amplifier": 50,
+                    "duration": 400
+                }
+            }
+        ]
+    },
+    "cooldown": 600,
+    "hud_render": {
+        "should_render": false
+    },
+    "name": "Cold Sleep",
+    "description": "Your body shuts down to regain lost energy."
+}

@@ -1,0 +1,15 @@
+{
+	"powers": [
+        "potted:shadow_dodge",
+        "origins:carnivore",
+        "origins:burn_in_daylight",
+        "origins:translucent",
+        "origins:tailwind",
+        "potted:perfect_vision"
+	],
+	"icon": "minecraft:skeleton_skull",
+	"order": 4,
+	"impact": 3,
+    "name": "Reaper",
+    "description": "Silent predators who slay at night. Reapers are stealthy, swift, and deadly."
+}

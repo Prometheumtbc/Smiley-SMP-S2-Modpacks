@@ -1,0 +1,8 @@
+{
+  "type": "origins:toggle_night_vision",
+  "active_by_default": "true",
+  "strength": 0.25,
+  "key": "secondary",
+  "name": "Sharpened Sight",
+  "description": "Tune your eyes to better navigate in the dark."
+}

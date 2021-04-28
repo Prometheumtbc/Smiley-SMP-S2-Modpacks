@@ -1,0 +1,14 @@
+{
+    "type": "origins:action_over_time",
+    "entity_action": {
+        "type": "origins:damage",
+        "amount": 5,
+        "source": {
+            "name": "outOfWorld",
+            "out_of_world": true
+        } 
+    },
+    "interval": 2400,
+    "name": "Reality Shatter",
+    "description": "Your abilities cause your reality to slowly crumble over time."
+}

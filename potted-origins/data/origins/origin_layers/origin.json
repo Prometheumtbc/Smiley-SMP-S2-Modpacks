@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "origins": [
+        "potted:flugel",
+        "potted:chrono",
+        "potted:siren",
+        "potted:reaper",
+        "potted:cow",
+        "potted:lumen",
+        "potted:lato"
+    ]
+}
